@@ -1,7 +1,6 @@
 # 💫 About Me:
 🚀 Final-year B.Tech Computer Science and Engineering student at Lovely Professional University with strong interest in AI/ML and data-driven systems.<br><br><br>🤖 Skilled in Machine Learning, Data Analysis, and problem-solving with hands-on project experience.<br><br><br>📊 Completed a Data Visualization internship at TCS, gaining industry exposure and practical insights.<br><br><br>🧠 Worked on AI-based projects, including crop disease detection and applied ML models.<br><br><br>💻 Strong foundation in programming, data structures, algorithms, and core computer science subjects.<br><br><br>📚 Continuous learner, actively enhancing skills in AIML, NLP, and advanced analytical techniques.<br><br><br>🎯 Career-focused individual aiming to secure a position in a reputed technology company.<br><br><br>⚡ Fun fact: I enjoy reading books, listening to music, and I also play kabaddi and cricket.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kanishka-sarangdhar/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/kanishkasarangdhar44/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Kanishka-Sarangdhar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkasarangdhar44@gmail.com ) 
 
